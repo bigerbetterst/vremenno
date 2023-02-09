@@ -1,0 +1,28 @@
+Uri: https://allayland.fun/
+File Name: C:\Downloaded Web Sites\allayland.fun\index.htm
+Content Type: text/html
+
+Uri: https://allayland.fun/css/style.css
+File Name: C:\Downloaded Web Sites\allayland.fun\css\style.css
+Content Type: text/css
+
+Uri: https://allayland.fun/Gilroy-Medium.ttf
+File Name: C:\Downloaded Web Sites\allayland.fun\Gilroy-Medium.ttf
+Content Type: 
+
+Uri: https://allayland.fun/Gilroy-Medium.woff
+File Name: C:\Downloaded Web Sites\allayland.fun\Gilroy-Medium.woff
+Content Type: 
+
+Uri: https://allayland.fun/Gilroy-Medium.woff2
+File Name: C:\Downloaded Web Sites\allayland.fun\Gilroy-Medium.woff2
+Content Type: 
+
+Uri: https://allayland.fun/js/app.js
+File Name: C:\Downloaded Web Sites\allayland.fun\js\app.js
+Content Type: text/javascript
+
+Uri: https://allayland.fun/style.css
+File Name: C:\Downloaded Web Sites\allayland.fun\style.css
+Content Type: text/css
+
